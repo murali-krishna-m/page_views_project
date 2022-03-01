@@ -1,0 +1,21 @@
+# bundler state
+/.bundle
+/vendor/bundle/
+/vendor/cache/
+/vendor/ruby/
+
+# ctags
+tags
+.ctags
+.gutctags
+
+# Mac finder artifacts
+.DS_Store
+
+# IDE project files
+.idea
+.vscode
+
+# Environment files that may contain sensitive data
+.env.*.local
+.powenv
